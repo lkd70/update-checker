@@ -1,0 +1,15 @@
+{
+  "name": "update-checker",
+  "version": "0.1.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "BSD-3-Clause",
+  "author": "LKD70",
+  "description": "A simple playstore update checker aimed at Telegram"
+}
