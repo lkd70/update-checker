@@ -1,2 +1,2 @@
 # update-checker
-A simple playstore update checker aimed at Telegram.
+A simple Play Store update checker aimed at [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger).
