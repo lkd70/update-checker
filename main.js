@@ -22,7 +22,7 @@ const sendMessage = text => chat_id =>
 
 
 async function check () {
-	const url = 'https://play.google.com/store/apps/details?id=org.telegram.messenger';
+	const url = 'https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en';
 
 	const $ = await request ({ url, transform });
 
